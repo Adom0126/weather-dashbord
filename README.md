@@ -1,6 +1,6 @@
 # Weather Dashboard Application
 
-R.M.K.T. Rathnayaka - ITBIN-2313 -0090 DevOps Release Manage
+R.M.K.T. Rathnayaka - ITBIN-2313 -0090 DevOps Release Manager
 
 K.W.NIMNA Shehara ITBNM-2313 -0078 Backend Developer
 
